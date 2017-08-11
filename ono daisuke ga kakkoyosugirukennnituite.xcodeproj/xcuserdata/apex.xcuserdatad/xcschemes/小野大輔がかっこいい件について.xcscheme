@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7A7835671F31902F008EC096"
-               BuildableName = "&#x5c0f;&#x91ce;&#x5927;&#x8f14;&#x304b;&#x3099;&#x304b;&#x3063;&#x3053;&#x3044;&#x3044;&#x4ef6;&#x306b;&#x3064;&#x3044;&#x3066;.app"
-               BlueprintName = "&#x5c0f;&#x91ce;&#x5927;&#x8f14;&#x304b;&#x3099;&#x304b;&#x3063;&#x3053;&#x3044;&#x3044;&#x4ef6;&#x306b;&#x3064;&#x3044;&#x3066;"
-               ReferencedContainer = "container:&#x5c0f;&#x91ce;&#x5927;&#x8f14;&#x304b;&#x3099;&#x304b;&#x3063;&#x3053;&#x3044;&#x3044;&#x4ef6;&#x306b;&#x3064;&#x3044;&#x3066;.xcodeproj">
+               BuildableName = "ono daisuke ga kakkoyosugirukennnituite.app"
+               BlueprintName = "ono daisuke ga kakkoyosugirukennnituite"
+               ReferencedContainer = "container:ono daisuke ga kakkoyosugirukennnituite.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7A78357B1F31902F008EC096"
-               BuildableName = "&#x5c0f;&#x91ce;&#x5927;&#x8f14;&#x304b;&#x3099;&#x304b;&#x3063;&#x3053;&#x3044;&#x3044;&#x4ef6;&#x306b;&#x3064;&#x3044;&#x3066;Tests.xctest"
-               BlueprintName = "&#x5c0f;&#x91ce;&#x5927;&#x8f14;&#x304b;&#x3099;&#x304b;&#x3063;&#x3053;&#x3044;&#x3044;&#x4ef6;&#x306b;&#x3064;&#x3044;&#x3066;Tests"
-               ReferencedContainer = "container:&#x5c0f;&#x91ce;&#x5927;&#x8f14;&#x304b;&#x3099;&#x304b;&#x3063;&#x3053;&#x3044;&#x3044;&#x4ef6;&#x306b;&#x3064;&#x3044;&#x3066;.xcodeproj">
+               BuildableName = "ono daisuke ga kakkoyosugirukennnituiteTests.xctest"
+               BlueprintName = "ono daisuke ga kakkoyosugirukennnituiteTests"
+               ReferencedContainer = "container:ono daisuke ga kakkoyosugirukennnituite.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7A7835671F31902F008EC096"
-            BuildableName = "&#x5c0f;&#x91ce;&#x5927;&#x8f14;&#x304b;&#x3099;&#x304b;&#x3063;&#x3053;&#x3044;&#x3044;&#x4ef6;&#x306b;&#x3064;&#x3044;&#x3066;.app"
-            BlueprintName = "&#x5c0f;&#x91ce;&#x5927;&#x8f14;&#x304b;&#x3099;&#x304b;&#x3063;&#x3053;&#x3044;&#x3044;&#x4ef6;&#x306b;&#x3064;&#x3044;&#x3066;"
-            ReferencedContainer = "container:&#x5c0f;&#x91ce;&#x5927;&#x8f14;&#x304b;&#x3099;&#x304b;&#x3063;&#x3053;&#x3044;&#x3044;&#x4ef6;&#x306b;&#x3064;&#x3044;&#x3066;.xcodeproj">
+            BuildableName = "ono daisuke ga kakkoyosugirukennnituite.app"
+            BlueprintName = "ono daisuke ga kakkoyosugirukennnituite"
+            ReferencedContainer = "container:ono daisuke ga kakkoyosugirukennnituite.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -66,9 +66,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7A7835671F31902F008EC096"
-            BuildableName = "&#x5c0f;&#x91ce;&#x5927;&#x8f14;&#x304b;&#x3099;&#x304b;&#x3063;&#x3053;&#x3044;&#x3044;&#x4ef6;&#x306b;&#x3064;&#x3044;&#x3066;.app"
-            BlueprintName = "&#x5c0f;&#x91ce;&#x5927;&#x8f14;&#x304b;&#x3099;&#x304b;&#x3063;&#x3053;&#x3044;&#x3044;&#x4ef6;&#x306b;&#x3064;&#x3044;&#x3066;"
-            ReferencedContainer = "container:&#x5c0f;&#x91ce;&#x5927;&#x8f14;&#x304b;&#x3099;&#x304b;&#x3063;&#x3053;&#x3044;&#x3044;&#x4ef6;&#x306b;&#x3064;&#x3044;&#x3066;.xcodeproj">
+            BuildableName = "ono daisuke ga kakkoyosugirukennnituite.app"
+            BlueprintName = "ono daisuke ga kakkoyosugirukennnituite"
+            ReferencedContainer = "container:ono daisuke ga kakkoyosugirukennnituite.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -85,9 +85,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7A7835671F31902F008EC096"
-            BuildableName = "&#x5c0f;&#x91ce;&#x5927;&#x8f14;&#x304b;&#x3099;&#x304b;&#x3063;&#x3053;&#x3044;&#x3044;&#x4ef6;&#x306b;&#x3064;&#x3044;&#x3066;.app"
-            BlueprintName = "&#x5c0f;&#x91ce;&#x5927;&#x8f14;&#x304b;&#x3099;&#x304b;&#x3063;&#x3053;&#x3044;&#x3044;&#x4ef6;&#x306b;&#x3064;&#x3044;&#x3066;"
-            ReferencedContainer = "container:&#x5c0f;&#x91ce;&#x5927;&#x8f14;&#x304b;&#x3099;&#x304b;&#x3063;&#x3053;&#x3044;&#x3044;&#x4ef6;&#x306b;&#x3064;&#x3044;&#x3066;.xcodeproj">
+            BuildableName = "ono daisuke ga kakkoyosugirukennnituite.app"
+            BlueprintName = "ono daisuke ga kakkoyosugirukennnituite"
+            ReferencedContainer = "container:ono daisuke ga kakkoyosugirukennnituite.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

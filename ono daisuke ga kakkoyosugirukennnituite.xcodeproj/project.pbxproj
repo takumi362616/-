@@ -13,6 +13,8 @@
 		7A7835731F31902F008EC096 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A7835721F31902F008EC096 /* Assets.xcassets */; };
 		7A7835761F31902F008EC096 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A7835741F31902F008EC096 /* LaunchScreen.storyboard */; };
 		7A7835811F31902F008EC096 /* ________________Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A7835801F31902F008EC096 /* ________________Tests.swift */; };
+		7A78358C1F31A55E008EC096 /* CustomVisionResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A78358B1F31A55E008EC096 /* CustomVisionResult.swift */; };
+		7A78358E1F31A627008EC096 /* CustomVisionService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A78358D1F31A627008EC096 /* CustomVisionService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,16 +28,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		7A7835681F31902F008EC096 /* 小野大輔がかっこいい件について.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "小野大輔がかっこいい件について.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A7835681F31902F008EC096 /* ono daisuke ga kakkoyosugirukennnituite.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ono daisuke ga kakkoyosugirukennnituite.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A78356B1F31902F008EC096 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7A78356D1F31902F008EC096 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		7A7835701F31902F008EC096 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7A7835721F31902F008EC096 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7A7835751F31902F008EC096 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7A7835771F31902F008EC096 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7A78357C1F31902F008EC096 /* 小野大輔がかっこいい件についてTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "小野大輔がかっこいい件についてTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A78357C1F31902F008EC096 /* ono daisuke ga kakkoyosugirukennnituiteTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ono daisuke ga kakkoyosugirukennnituiteTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A7835801F31902F008EC096 /* ________________Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "________________Tests.swift"; sourceTree = "<group>"; };
 		7A7835821F31902F008EC096 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A78358B1F31A55E008EC096 /* CustomVisionResult.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomVisionResult.swift; sourceTree = "<group>"; };
+		7A78358D1F31A627008EC096 /* CustomVisionService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomVisionService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,8 +63,8 @@
 		7A78355F1F31902F008EC096 = {
 			isa = PBXGroup;
 			children = (
-				7A78356A1F31902F008EC096 /* 小野大輔がかっこいい件について */,
-				7A78357F1F31902F008EC096 /* 小野大輔がかっこいい件についてTests */,
+				7A78356A1F31902F008EC096 /* ono daisuke ga kakkoyosugirukennnituite */,
+				7A78357F1F31902F008EC096 /* ono daisuke ga kakkoyosugirukennnituiteTests */,
 				7A7835691F31902F008EC096 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -68,13 +72,13 @@
 		7A7835691F31902F008EC096 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7A7835681F31902F008EC096 /* 小野大輔がかっこいい件について.app */,
-				7A78357C1F31902F008EC096 /* 小野大輔がかっこいい件についてTests.xctest */,
+				7A7835681F31902F008EC096 /* ono daisuke ga kakkoyosugirukennnituite.app */,
+				7A78357C1F31902F008EC096 /* ono daisuke ga kakkoyosugirukennnituiteTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7A78356A1F31902F008EC096 /* 小野大輔がかっこいい件について */ = {
+		7A78356A1F31902F008EC096 /* ono daisuke ga kakkoyosugirukennnituite */ = {
 			isa = PBXGroup;
 			children = (
 				7A78356B1F31902F008EC096 /* AppDelegate.swift */,
@@ -83,25 +87,29 @@
 				7A7835721F31902F008EC096 /* Assets.xcassets */,
 				7A7835741F31902F008EC096 /* LaunchScreen.storyboard */,
 				7A7835771F31902F008EC096 /* Info.plist */,
+				7A78358B1F31A55E008EC096 /* CustomVisionResult.swift */,
+				7A78358D1F31A627008EC096 /* CustomVisionService.swift */,
 			);
+			name = "ono daisuke ga kakkoyosugirukennnituite";
 			path = "小野大輔がかっこいい件について";
 			sourceTree = "<group>";
 		};
-		7A78357F1F31902F008EC096 /* 小野大輔がかっこいい件についてTests */ = {
+		7A78357F1F31902F008EC096 /* ono daisuke ga kakkoyosugirukennnituiteTests */ = {
 			isa = PBXGroup;
 			children = (
 				7A7835801F31902F008EC096 /* ________________Tests.swift */,
 				7A7835821F31902F008EC096 /* Info.plist */,
 			);
+			name = "ono daisuke ga kakkoyosugirukennnituiteTests";
 			path = "小野大輔がかっこいい件についてTests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7A7835671F31902F008EC096 /* 小野大輔がかっこいい件について */ = {
+		7A7835671F31902F008EC096 /* ono daisuke ga kakkoyosugirukennnituite */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7A7835851F31902F008EC096 /* Build configuration list for PBXNativeTarget "小野大輔がかっこいい件について" */;
+			buildConfigurationList = 7A7835851F31902F008EC096 /* Build configuration list for PBXNativeTarget "ono daisuke ga kakkoyosugirukennnituite" */;
 			buildPhases = (
 				7A7835641F31902F008EC096 /* Sources */,
 				7A7835651F31902F008EC096 /* Frameworks */,
@@ -111,14 +119,14 @@
 			);
 			dependencies = (
 			);
-			name = "小野大輔がかっこいい件について";
+			name = "ono daisuke ga kakkoyosugirukennnituite";
 			productName = "小野大輔がかっこいい件について";
-			productReference = 7A7835681F31902F008EC096 /* 小野大輔がかっこいい件について.app */;
+			productReference = 7A7835681F31902F008EC096 /* ono daisuke ga kakkoyosugirukennnituite.app */;
 			productType = "com.apple.product-type.application";
 		};
-		7A78357B1F31902F008EC096 /* 小野大輔がかっこいい件についてTests */ = {
+		7A78357B1F31902F008EC096 /* ono daisuke ga kakkoyosugirukennnituiteTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7A7835881F31902F008EC096 /* Build configuration list for PBXNativeTarget "小野大輔がかっこいい件についてTests" */;
+			buildConfigurationList = 7A7835881F31902F008EC096 /* Build configuration list for PBXNativeTarget "ono daisuke ga kakkoyosugirukennnituiteTests" */;
 			buildPhases = (
 				7A7835781F31902F008EC096 /* Sources */,
 				7A7835791F31902F008EC096 /* Frameworks */,
@@ -129,9 +137,9 @@
 			dependencies = (
 				7A78357E1F31902F008EC096 /* PBXTargetDependency */,
 			);
-			name = "小野大輔がかっこいい件についてTests";
+			name = "ono daisuke ga kakkoyosugirukennnituiteTests";
 			productName = "小野大輔がかっこいい件についてTests";
-			productReference = 7A78357C1F31902F008EC096 /* 小野大輔がかっこいい件についてTests.xctest */;
+			productReference = 7A78357C1F31902F008EC096 /* ono daisuke ga kakkoyosugirukennnituiteTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -155,7 +163,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7A7835631F31902F008EC096 /* Build configuration list for PBXProject "小野大輔がかっこいい件について" */;
+			buildConfigurationList = 7A7835631F31902F008EC096 /* Build configuration list for PBXProject "ono daisuke ga kakkoyosugirukennnituite" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -168,8 +176,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7A7835671F31902F008EC096 /* 小野大輔がかっこいい件について */,
-				7A78357B1F31902F008EC096 /* 小野大輔がかっこいい件についてTests */,
+				7A7835671F31902F008EC096 /* ono daisuke ga kakkoyosugirukennnituite */,
+				7A78357B1F31902F008EC096 /* ono daisuke ga kakkoyosugirukennnituiteTests */,
 			);
 		};
 /* End PBXProject section */
@@ -199,6 +207,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A78358E1F31A627008EC096 /* CustomVisionService.swift in Sources */,
+				7A78358C1F31A55E008EC096 /* CustomVisionResult.swift in Sources */,
 				7A78356E1F31902F008EC096 /* ViewController.swift in Sources */,
 				7A78356C1F31902F008EC096 /* AppDelegate.swift in Sources */,
 			);
@@ -217,7 +227,7 @@
 /* Begin PBXTargetDependency section */
 		7A78357E1F31902F008EC096 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7A7835671F31902F008EC096 /* 小野大輔がかっこいい件について */;
+			target = 7A7835671F31902F008EC096 /* ono daisuke ga kakkoyosugirukennnituite */;
 			targetProxy = 7A78357D1F31902F008EC096 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -371,7 +381,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.makeschool.----------------Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/小野大輔がかっこいい件について.app/小野大輔がかっこいい件について";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ono daisuke ga kakkoyosugirukennnituite.app/ono daisuke ga kakkoyosugirukennnituite";
 			};
 			name = Debug;
 		};
@@ -385,14 +395,14 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.makeschool.----------------Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/小野大輔がかっこいい件について.app/小野大輔がかっこいい件について";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ono daisuke ga kakkoyosugirukennnituite.app/ono daisuke ga kakkoyosugirukennnituite";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7A7835631F31902F008EC096 /* Build configuration list for PBXProject "小野大輔がかっこいい件について" */ = {
+		7A7835631F31902F008EC096 /* Build configuration list for PBXProject "ono daisuke ga kakkoyosugirukennnituite" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7A7835831F31902F008EC096 /* Debug */,
@@ -401,7 +411,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7A7835851F31902F008EC096 /* Build configuration list for PBXNativeTarget "小野大輔がかっこいい件について" */ = {
+		7A7835851F31902F008EC096 /* Build configuration list for PBXNativeTarget "ono daisuke ga kakkoyosugirukennnituite" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7A7835861F31902F008EC096 /* Debug */,
@@ -409,7 +419,7 @@
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		7A7835881F31902F008EC096 /* Build configuration list for PBXNativeTarget "小野大輔がかっこいい件についてTests" */ = {
+		7A7835881F31902F008EC096 /* Build configuration list for PBXNativeTarget "ono daisuke ga kakkoyosugirukennnituiteTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7A7835891F31902F008EC096 /* Debug */,
